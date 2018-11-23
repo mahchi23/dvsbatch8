@@ -1,0 +1,9 @@
+---
+username: kitchen
+ssh_key: "/root/dvsbatch8/roles/apache/.kitchen/docker_id_rsa"
+image_id: d82056491430
+container_id: 6f1e77551e9aa67d24c96b5ed28d054a9549db8cea9dd09299661936724efaef
+hostname: localhost
+port: 32768
+last_action: converge
+last_error: 
